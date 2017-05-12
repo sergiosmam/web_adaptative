@@ -1,0 +1,3 @@
+Adición de la URL de acceso al repositorio en GitHub, desde la web de GitHub:
+
+https://github.com/sergiosmam/web_adaptative
